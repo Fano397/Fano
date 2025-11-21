@@ -1,0 +1,2 @@
+# Fano
+sc bot
